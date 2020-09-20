@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="reminder">Reminder</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="ContentTittleNotif">Github User Search</string>
+    <string name="SubTextNotif">Lets find popular user on Github User Search application!</string>
+    <string name="search_user">Search User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

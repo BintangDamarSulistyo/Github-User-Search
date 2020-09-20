@@ -1,0 +1,6 @@
+include ':githubfavorite'
+include ':app:favorite'
+include ':githubfavorite'
+include ':favorite'
+include ':app'
+rootProject.name = "Github User Search"
